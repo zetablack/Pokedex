@@ -1,0 +1,166 @@
+.logo img{
+  width: 120px;
+  height: 60px;
+  
+  
+}
+
+.logo p{
+  display: inline;
+  float: right;
+  padding: 15px;
+  
+}
+
+.logo a{
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+  
+}
+
+.logo{
+  margin-right: 35px;
+  
+}
+
+.pokedex h1{
+  font-family: "Creepster", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  color: #ffcb05;
+  margin-top: 40px;
+  
+}
+
+.pokedex p{
+  font-family: "Mogra", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  width: 250px;
+  border: 2px solid;
+  padding: 15px 20px;
+  margin: auto;
+  text-align: center;
+  
+  
+}
+
+.pokedex{
+  text-align: center;
+  justify-content: center;
+  
+  
+}
+
+.pokedex h2{
+  font-size: 20px;
+  text-align: center;
+  
+}
+
+.pikachu h3{
+  border-style: dotted;
+  border-color: black;
+  padding: 10px 30px;
+  width: 100px;
+  text-align: center;
+  margin: auto;
+  color: #fcf75e;
+  
+  
+}
+.pikachu{
+  border: 3px solid;
+  padding: 10px;
+  width: 350px;
+  margin: 70px auto 20px auto;
+  background-color: white;
+  
+  
+}
+
+.pikachu h2{
+  text-align: center;
+  
+}
+
+tr td{
+  padding: 10px;
+}
+  
+
+body{
+  margin: 0;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyJb-8oAr1QunsgMPe54WsWMbx637mISXlSxGmKXnZoDzsXmDdSQPQWXrr&s=10");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  margin-bottom: 10px;
+  
+}
+
+footer img{
+  width: 120px;
+  height: 60px;
+  margin-left: 35px;
+  
+  
+}
+
+footer{
+  background-color: #3e5f8a;
+  
+}
+
+li{
+  list-style: none;
+  display: inline;
+  float: center;
+  
+  
+  
+}
+
+ul{
+  display: inline;
+  float: right;
+  color: #ffcb05;
+  font-weight: bold;
+  
+  
+  
+}
+
+.redes{
+  margin-right: 35px;
+  
+}
+
+.contenido{
+  margin-right: 250px;
+  
+}
+
+.tbl{
+  width: 35%;
+  text-align: center;
+  margin: 0 auto auto auto;
+  color: white;
+  padding: 5px;
+  
+  
+}
+
+.tbl td{
+  padding: 5px;
+  margin-top: 5px;
+  
+  
+}
+
+footer p{
+  text-align: center;
+  padding-bottom: 5px;
+  color: #0cb7f2;
+  
+}
